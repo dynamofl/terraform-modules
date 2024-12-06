@@ -1,3 +1,4 @@
+subscription_id = "value"
 resource_group_name = "dynamoai-rg"
 location = "eastus"
 use_existing_rg = true
@@ -16,7 +17,7 @@ existing_aks_name = ""
 postgresql_name = "dynamo-postgresql"
 use_existing_postgresql = false
 existing_postgresql_name = ""
-postgresql_databases = ["db1", "db2"]
+postgresql_databases = ["dynamoai", "keycloak"]
 
 dns_zone_name = "dynamoai.com"
 use_existing_dns_zone = true
