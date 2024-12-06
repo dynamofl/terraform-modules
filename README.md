@@ -34,7 +34,7 @@ This module provisions and configures the following:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/dynamofl/terraform-modules
 cd azure
 ```
 
