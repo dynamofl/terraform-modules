@@ -114,3 +114,8 @@ variable "existing_dns_zone_name" {
   type    = string
   default = null
 }
+
+variable "subscription_id" {
+  type    = string
+  default = null
+}
